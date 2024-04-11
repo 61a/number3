@@ -8,3 +8,17 @@ This repository contains the implementation of a semi-supervised learning system
 - `train_GPT.py`: This script is responsible for training the GPT model on the pulsar data representations learned by VQ-VAE.
 - `sample_VQVAE_GPT.py`: This script utilizes both trained VQ-VAE and GPT models to generate new pulsar data.
 - `Multimodel_Semi.py`: The main executable that integrates the workflow from data preprocessing to pulsar candidate identification.
+
+## Getting Started
+
+### Prerequisites
+
+Before running the scripts, ensure that you have the necessary data preprocessed according to the system's requirements. The following dependencies are also required:
+
+- Python 3.x
+- PyTorch
+- NumPy
+
+To run the entire workflow, execute the main script Multimodel_Semi.py:
+- python Multimodel_Semi.py
+
