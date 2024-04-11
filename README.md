@@ -23,3 +23,7 @@ To run the entire workflow, execute the main script Multimodel_Semi.py:
 ```bash
 python Multimodel_Semi.py
 
+## License
+
+Distributed under the MIT License. See LICENSE for more information.
+
