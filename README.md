@@ -20,5 +20,6 @@ Before running the scripts, ensure that you have the necessary data preprocessed
 - NumPy
 
 To run the entire workflow, execute the main script Multimodel_Semi.py:
-'python Multimodel_Semi.py'
+```bash
+python Multimodel_Semi.py
 
